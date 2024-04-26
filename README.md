@@ -19,8 +19,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
-- 👋 Hi, I’m @Aditpane
+  
+  
+  - 👋 Hi, I’m @Aditpane
 - 👀 I’m interested in you
 - 🌱 I’m currently learning hack
 - 💞️ I’m looking to collaborate on tt
